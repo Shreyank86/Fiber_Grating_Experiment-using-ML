@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python / ML cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak
+
+# Optional: comment out if you want to upload these
+# *.docx
+# *.csv
+# *.xlsx
+# *.json
+
+# Editor settings
+.vscode/
+.idea/
